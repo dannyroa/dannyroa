@@ -8,6 +8,6 @@ Formerly at Foursquare and Remind.
 
 You can find me at:
 
-- 🐘<a rel="me" href="https://androiddev.social/@dannyroa">AndroidDev Mastodon</a>
+- 🐘 <a rel="me" href="https://androiddev.social/@dannyroa">AndroidDev Mastodon</a>
 
-- 🐘<a rel="me" href="https://mastodon.social/@dannyroa">Mastodon Social</a>
+- 🐘 <a rel="me" href="https://mastodon.social/@dannyroa">Mastodon Social</a>
