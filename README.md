@@ -2,7 +2,7 @@
 
 My name is Danny Roa
 
-I'm an Android Engineer currently working at fable.co.
+I'm an Android Engineer.
 
 Formerly at Foursquare and Remind.
 
